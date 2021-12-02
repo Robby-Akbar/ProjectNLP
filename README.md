@@ -1,5 +1,23 @@
 # ProjectNLP
 
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://github.com/RobbyAkbar/JobFlex">
+    <img src="movie_search.png" alt="Logo" height="80">
+  </a>
+
+  <h2 align="center">Movie Searching Platform</h2>
+
+  <p align="center">
+    Project UAS NLP - PSTI - 2018
+    <br />
+    <a href="https://colab.research.google.com/drive/1p1Zpx1bHn_iB5ai0uxlq5R7mcq4a0xNI"><strong>Explore the Notebook »</strong></a>
+    <br />
+    <br />
+  </p>
+</p>
+
 <h4>Team Members</h4>
 <ul>
   <li>Asry Yuniarti - 1804975</li>

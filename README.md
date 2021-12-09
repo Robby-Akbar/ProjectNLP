@@ -55,3 +55,13 @@ Database (TMDb) terdapat 14.971 judul film yang telah diproduksi oleh industri p
 
 ## Deployment Steps
 Dataset yang digunakan, alur pengembangan project
+
+## Source
+
+##Parameter
+
+##Output
+
+##Model
+
+##Data

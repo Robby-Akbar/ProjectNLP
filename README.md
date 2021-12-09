@@ -30,13 +30,10 @@
   <ol>
     <li><a href="#background">Background</a></li>
     <li><a href="#objective">Objective</a></li>
+    <li><a href="#projectstructure">Project Structure</a></li>
     <li><a href="#metrics">Metrics</a></li>
-    <li><a href="#deployment-steps">Deployment Steps</a></li>
-    <li><a href="#src">Source</a></li>
-    <li><a href="#parameter">Parameter</a></li>
-    <li><a href="#output">Output</a></li>
-    <li><a href="#model">Model</a></li>
-    <li><a href="#data">Data</a></li>
+    <li><a href="#evaluation">Evaluation</a></li>
+    <li><a href="#howtorunmovierecommend">How to Run Movie Recommendation</a></li>
   </ol>
 </details>
 
@@ -48,20 +45,19 @@ Database (TMDb) terdapat 14.971 judul film yang telah diproduksi oleh industri p
 1. Sistem dapat merekomendasikan film yang serupa berdasarkan judul film yang diberikan.
 2. Sistem dapat merekomendasikan film berdasarkan alur cerita yang diinginkan.
 
+## Project Structure
+1. Source
+2. Parameter
+3. Output
+4. Model
+5. Data
+
 ## Metrics
 1. 
 2. 
 3. 
 
-## Deployment Steps
+## Evaluation
 Dataset yang digunakan, alur pengembangan project
 
-## Source
-
-## Parameter
-
-## Output
-
-## Model
-
-## Data
+## How to Run Movie Recommendation

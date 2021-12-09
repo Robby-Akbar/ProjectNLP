@@ -32,6 +32,11 @@
     <li><a href="#objective">Objective</a></li>
     <li><a href="#metrics">Metrics</a></li>
     <li><a href="#deployment-steps">Deployment Steps</a></li>
+    <li><a href="#src">Source</a></li>
+    <li><a href="#parameter">Parameter</a></li>
+    <li><a href="#output">Output</a></li>
+    <li><a href="#model">Model</a></li>
+    <li><a href="#data">Data</a></li>
   </ol>
 </details>
 

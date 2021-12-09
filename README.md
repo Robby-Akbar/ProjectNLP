@@ -39,7 +39,7 @@
 
 ## Background
 Berbagai macam teknologi saat ini telah dimanfaatkan oleh manusia dalam kehidupan sehari-hari. Film adalah salah satu media hiburan maupun sarana dalam menyampaikan informasi yang merupakan gabungan antara perkembangan teknologi audio dan visual. Setiap tahun jumlah yang tersebar semakin banyak dan terus meningkat. Pada halaman web The Movie
-Database (TMDb) terdapat 14.971 judul film yang telah diproduksi oleh industri perfilman dari tahun 1900 hingga tahun 2019. 
+Database (TMDb) terdapat 14.971 judul film yang telah diproduksi oleh industri perfilman dari tahun 1900 hingga tahun 2019. Setiap orang memiliki ketertarikan atau kecenderungan terhadap film yang berbeda-beda. 
 
 ## Objective
 1. Sistem dapat merekomendasikan film yang serupa berdasarkan judul film yang diberikan.

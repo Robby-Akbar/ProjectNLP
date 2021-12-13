@@ -39,7 +39,8 @@
 
 ## Background
 Berbagai macam teknologi saat ini telah dimanfaatkan oleh manusia dalam kehidupan sehari-hari. Film adalah salah satu media hiburan maupun sarana dalam menyampaikan informasi yang merupakan gabungan antara perkembangan teknologi audio dan visual. Setiap tahun jumlah yang tersebar semakin banyak dan terus meningkat. Pada halaman web The Movie
-Database (TMDb) terdapat 14.971 judul film yang telah diproduksi oleh industri perfilman dari tahun 1900 hingga tahun 2019. Setiap orang memiliki ketertarikan atau kecenderungan terhadap film yang berbeda-beda. 
+Database (TMDb) terdapat 14.971 judul film yang telah diproduksi oleh industri perfilman dari tahun 1900 hingga tahun 2019. Dalam menonton sebuah film setiap orang memiliki ketertarikan atau kecenderungan terhadap film yang berbeda-beda. Sinopsis merupakan salah satu cara yang membantu kita dalam memahami alur cerita dari sebuah film, sedangkan genre membantu kita dalam mengetahui apakah film itu sesuai dengan genre yang kita sukai atau tidak.
+Banyaknya data film yang tersedia pada sosial media, akan membutuhkan waktu yang lama untuk mencari film yang memiliki sinopsis dan genre yang serupa atau sama secara manual. Rekomendasi merupakan alat penyaringan informasi dari jejaring sosial yang dapat digunakan untuk mengatasi data yang berlebih (Roy dan Kundu, 2013). 
 
 ## Objective
 1. Sistem dapat merekomendasikan film yang serupa berdasarkan judul film yang diberikan.

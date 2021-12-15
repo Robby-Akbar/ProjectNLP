@@ -47,11 +47,16 @@ Banyaknya data film yang tersedia pada sosial media, akan membutuhkan waktu yang
 2. Sistem dapat merekomendasikan film berdasarkan alur cerita yang diinginkan.
 
 ## Project Structure
-1. Source
-2. Parameter
+1. Colab
+Dalam folder ini berisi data preparation dalam format ipynb yang telah diolah sesuai dengan kebutuhan (cleaning data, cleaning fitur, filter data)
+2. Data
+Foldr data berisi link dataset yang digunakan dalam project ini
 3. Output
-4. Model
-5. Data
+Folder output terdiri dari dua folder yaitu :
+a. Folder data berisi dataset, data training, data test, val data dalam format csv yang akan digunakan dalam proses ...
+b. img yang berisi gambar dari hasil visualisasi data
+4. Src
+
 
 ## Metrics
 1. 

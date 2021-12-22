@@ -60,7 +60,7 @@ b. img yang berisi gambar dari hasil visualisasi data
 
 ## Metrics
 1. TF-IDF
-2. 
+2. F1-score
 3. 
 
 ## How to Run Movie Recommendation

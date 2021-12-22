@@ -44,30 +44,24 @@ Banyaknya data film yang tersedia pada sosial media, akan membutuhkan waktu yang
 
 ## Objective
 1. Sistem dapat merekomendasikan film yang serupa berdasarkan judul film yang diberikan.
-2. Sistem dapat merekomendasikan film berdasarkan alur cerita yang diinginkan.
 
 ## Project Structure
 1. Colab
 Dalam folder ini berisi data preparation dalam format ipynb yang telah diolah sesuai dengan kebutuhan (cleaning data, cleaning fitur, filter data)
 2. Data
 Foldr data berisi link dataset yang digunakan dalam project ini
-3. Model
-Folder model ini berisi data yang telah diolah 
-4. Output
-Folder output terdiri dari dua folder yaitu :
+3. Model berisi data yang telah diolah dan siap untuk digunakan 
+4. Output terdiri dari dua folder yaitu :
 a. Folder data berisi dataset, data training, data test, val data dalam format csv yang akan digunakan dalam proses ...
 b. img yang berisi gambar dari hasil visualisasi data
 4. Params
-
-5. Src
+5. Src yang berisi file main.py untuk menjalankan sistem rekomendasi film
 
 
 ## Metrics
-1. 
+1. TF-IDF
 2. 
 3. 
 
-## Evaluation
-Dataset yang digunakan, alur pengembangan project
-
 ## How to Run Movie Recommendation
+Buka folder src > file main.py > run

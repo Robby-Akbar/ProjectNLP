@@ -44,6 +44,7 @@ Banyaknya data film yang tersedia pada sosial media, akan membutuhkan waktu yang
 
 ## Objective
 1. Sistem dapat merekomendasikan film yang serupa berdasarkan judul film yang diberikan.
+2. Prediksi movie genre berdasarkan judul film
 
 ## Project Structure
 1. Colab
@@ -59,8 +60,7 @@ b. img yang berisi gambar dari hasil visualisasi data
 
 
 ## Metrics
-1. TF-IDF
-2. F1-score
+1. F1-score
 
 ## How to Run Movie Recommendation
 1. download visual studio code
